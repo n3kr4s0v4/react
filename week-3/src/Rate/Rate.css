@@ -1,0 +1,36 @@
+.rate {
+    display: inline-flex;
+}
+
+.rate-card {
+    margin: 0.1vw;
+}
+
+.rate-title,
+.rate-price,
+.rate-speed,
+.rate-limite {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.rate-title,
+.rate-price {
+    color: #ffff;
+}
+
+.rate-speed,
+.rate-limite {
+    background-color: #f2f2f2;
+    color: #1f1f1ffd;
+    padding: 1.5vw;
+}
+
+.rate-title {
+    padding: 1.5vw;
+}
+
+.rate-price {
+    padding: 2vw;
+}
