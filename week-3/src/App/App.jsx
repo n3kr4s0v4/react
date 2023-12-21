@@ -24,6 +24,7 @@ const rateData = [
         background_price: "#de2834fd",
         price : "руб 550/мес",
         speed : "до 100 Мбит/сек",
+        active : "active",
         limite : "Объём включенного трафика не ограничен"
     },
     {

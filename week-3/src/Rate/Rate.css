@@ -38,3 +38,7 @@
 .rate-price {
     padding: 1.5vw;
 }
+
+.active {
+    transform: scale(1.1);
+}
