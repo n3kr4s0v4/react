@@ -14,13 +14,17 @@
 .rate-price,
 .rate-speed,
 .rate-limite {
+    margin: 0;
+    border: 2px solid #ffff;
     display: flex;
     justify-content: center;
+    align-self: center;
     text-align: center;
 }
 
 .rate-title,
 .rate-price {
+    padding: 1.5vw;
     color: #ffff;
 }
 
@@ -28,17 +32,17 @@
 .rate-limite {
     background-color: #f2f2f2;
     color: #1f1f1ffd;
-    padding: 1vw;
+    height: 8vh;
 }
 
 .rate-title {
-    padding: 1vw;
+    height: 7vh;
 }
 
 .rate-price {
-    padding: 1.5vw;
+    height: 10vh;
 }
 
-.active {
+.transform {
     transform: scale(1.1);
 }
