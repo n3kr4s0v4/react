@@ -1,9 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
 .rate {
     display: inline-flex;
+    font-family: Montserrat;
 }
 
 .rate-card {
     margin: 0.1vw;
+    width: 20vw;
 }
 
 .rate-title,
@@ -24,13 +28,13 @@
 .rate-limite {
     background-color: #f2f2f2;
     color: #1f1f1ffd;
-    padding: 1.5vw;
+    padding: 1vw;
 }
 
 .rate-title {
-    padding: 1.5vw;
+    padding: 1vw;
 }
 
 .rate-price {
-    padding: 2vw;
+    padding: 1.5vw;
 }
